@@ -44,6 +44,13 @@ function populateInspectionQuantity() {
       // If the input field is found, set its value to the "Minimum Quantity Required"
       if (acceptableQuantityInput) {
         acceptableQuantityInput.value = minQuantityRequired;
+
+         // Trigger input and change events to ensure the form detects the change
+         const inputEvent = new Event('input', { bubbles: true });
+         const changeEvent = new Event('change', { bubbles: true });
+ 
+         acceptableQuantityInput.dispatchEvent(inputEvent);
+         acceptableQuantityInput.dispatchEvent(changeEvent);
       }
     });
   });

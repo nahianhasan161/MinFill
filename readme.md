@@ -9,6 +9,7 @@ Follow these steps to install the extension manually:
    - In Chrome, type `chrome://extensions` in the address bar and hit **Enter**.
    - In Firefox, go to `about:addons`.
    - In Edge, go to `edge://extensions`.
+   - video[Video Tutorial](https://www.youtube.com/watch?v=vW8W19W_X0I)
 5. **Enable Developer Mode**:
    - In Chrome: Toggle the "Developer mode" switch in the top-right corner of the Extensions page.
    - In Firefox and Edge: You may need to enable the developer or extension debugging options in settings.
