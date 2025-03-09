@@ -2,7 +2,7 @@
 
 Follow these steps to install the extension manually:
 
-1. **Download the .zip file** from the [Download Extension](https://github.com/nahianhasan161/MinFill/archive/refs/heads/main.zip) (replace with your actual link).
+1. **Download the .zip file** from the [Download Extension](https://github.com/nahianhasan161/MinFill/archive/refs/heads/main.zip) .
 2. **Extract** the contents of the .zip file to a folder on your computer.
 3. **Open Chrome** (or another browser that supports extensions, such as Firefox or Edge).
 4. **Go to the Extensions page**:
